@@ -1,4 +1,4 @@
-### Hi there👋 I am brianhhy
+### Hi there👋 I am GoodRelation
 <details>
 <summary>
   🐼currently I learn..
