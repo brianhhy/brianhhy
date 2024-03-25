@@ -1,7 +1,7 @@
 ### Hi there 👋
 <details>
 <summary>
-  내가 지금 배우는..
+  🐼내가 지금 배우는..
 </summary>
   
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@
 
 <details>
 <summary>
-  내가 배우고 싶은...
+  🔥내가 배우고 싶은...
 </summary>
 
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -23,12 +23,7 @@
    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 </details>
 
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhhy)](https://github.com/anuraghazra/github-readme-stats)
