@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕 👋
 <details>
 <summary>
   🐼내가 지금 배우는..
