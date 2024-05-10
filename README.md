@@ -24,4 +24,4 @@
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhy)](https://github.com/anuraghazra/github-readme-stats)
+![GoodRelation's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodRelation&show_icons=true&theme=radical)
