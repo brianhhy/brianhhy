@@ -24,4 +24,4 @@
 </details>
 
 
-![GoodRelation's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodRelation&show_icons=true&theme=radical)
+![GoodRelation's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhhy&show_icons=true&theme=radical)
