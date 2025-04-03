@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=soft&text=Welcome%20GoodRelation's%20Git%20profile&fontColor=ffffff&animation=fadeIn&color=0:00C9FF,100:92FE9D&fontSize=45&height=200)
+  ![header](https://capsule-render.vercel.app/api?type=soft&text=%20Hoyeon's%20GitHub&fontColor=ffffff&animation=fadeIn&color=0:00C9FF,100:92FE9D&fontSize=45&height=200)
   
   <h1>📚 My stack</h1>
 
