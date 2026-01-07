@@ -31,10 +31,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianhhy/brianhhy/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brianhhy/brianhhy/output/pacman-contribution-graph.svg">
   </picture>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=brianhhy&theme=dark&hide_border=true&locale=ko)](https://git.io/streak-stats)
+  
 </div>
-
-
-
-
