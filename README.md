@@ -2,29 +2,39 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=soft&text=%20Hoyeon's%20GitHub&fontColor=ffffff&animation=fadeIn&color=0:00C9FF,100:92FE9D&fontSize=45&height=200)
+  ![header](https://capsule-render.vercel.app/api?type=soft&text=%20Hoyeon's%20GitHub&fontColor=ffffff&animation=fadeIn&color=0:36D1DC,100:5B86E5&fontSize=45&height=200)
   
   <h1>📚 My stack</h1>
 
   <h3>Platforms & Languages</h3>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  <br>
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brianhhy)
+
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 
   <br>
-  <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhhy&layout=compact)
   
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianhhy/brianhhy/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianhhy/brianhhy/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brianhhy/brianhhy/output/pacman-contribution-graph.svg">
+  </picture>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=brianhhy&theme=dark&hide_border=true&locale=ko)](https://git.io/streak-stats)
 </div>
+
+
 
 
